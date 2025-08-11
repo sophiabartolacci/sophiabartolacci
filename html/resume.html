@@ -10,63 +10,196 @@
       href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
       rel="stylesheet"
     />
+    <link
+      href="../styles/normalize.css"
+      media="screen"
+      rel="stylesheet"
+      type="text/css"
+    />
     <link href="../styles/style.css" rel="stylesheet" type="text/css" />
     <link href="../styles/resume.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
     <header>
-      <a href="/" class="home">Sophia Bartolacci</a>
-      <nav class="nav-bar">
-        <ul class="nav-center">
+      <a href="../index.html" class="home">Sophia Bartolacci</a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" hidden />
+      <label for="nav-toggle" class="nav-toggle-label">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+      <nav>
+        <ul>
+          <li><a href="../index.html">Home</a></li>
           <li><a href="./about.html">About</a></li>
-          <li><a href="./resume.html">Resume</a></li>
-          <li><a href="/">Projects</a></li>
+          <li><a href="../index.html">Projects</a></li>
           <li><a href="./photos.html">Photography</a></li>
-        </ul>
-        <ul class="nav-right">
-          <li>
-            <b>
-              <label class="empty"> empty box </label>
-            </b>
-          </li>
-          <li>
-            <b>
-              <label class="theme-switch">
-                <input type="checkbox" id="theme-toggle" />
-                <span class="slider"></span>
-              </label>
-            </b>
-          </li>
+          <li><a href="./resume.html">Resume</a></li>
         </ul>
       </nav>
+      <div class="nav-right">
+        <label class="empty"> empty box </label>
+        <label class="theme-switch">
+          <input type="checkbox" id="theme-toggle" />
+          <span class="slider"></span>
+        </label>
+      </div>
     </header>
-    <h1>
-      Resume
-      <a href="../Resume.pdf" download>
-        <i class="bx bx-download"></i>
-      </a>
-    </h1>
-    <div class="resume">
-      <img src="../Resume.png" alt="Resume" height="792" width="612" />
-    </div>
-    <footer>
-      <div class="footer">
-        <h2 class="contact">Contact</h2>
-        <div class="links">
-          <a href="https://github.com/sophiabartolacci" target="_blank">
-            <i class="bx bxl-github"></i>
-          </a>
-          <a
-            href="https://www.linkedin.com/in/sophiabartolacci/"
-            target="_blank"
-          >
-            <i class="bx bxl-linkedin-square"></i>
-          </a>
-          <a href="mailto:slb522@drexel.edu">
-            <i class="bx bxs-envelope"></i>
-          </a>
+    <main>
+      <h1>Resume</h1>
+      <div class="parent">
+        <div class="education">
+          <h2>Education</h2>
+          <ul>
+            <li>Bachelor of Science in Computer Science</li>
+            <li>Minors in Data Science and UI/UX</li>
+          </ul>
+          <ul>
+            <li>- Drexel University | Philadelphia, PA</li>
+            <li>- Cumalative GPA: 3.44</li>
+            <li>- Graduation: June 2027</li>
+          </ul>
+          <h3>Programming Languages</h3>
+          <ul>
+            <li>- Java</li>
+            <li>- HTML/CSS</li>
+            <li>- JavaScript, Node.js, Express.js</li>
+            <li>- Microsoft SQL Server, PostgreSQL</li>
+            <li>- Python</li>
+            <li>- C</li>
+            <li>- Racket</li>
+          </ul>
+          <h4>Skills</h4>
+          <ul>
+            <li>- GitHub/GitLab</li>
+            <li>- Azure DevOps Server</li>
+            <li>- Agile, Scrum</li>
+            <li>- Visual Studio Code</li>
+            <li>- IntelliJ IDEA</li>
+            <li>- pgAdmin</li>
+            <li>- SQL Server Management Studio</li>
+            <li>- Liquibase</li>
+            <li>- Figma</li>
+            <li>- Wordpress</li>
+            <li>- Microsoft Office Suite</li>
+          </ul>
+          <h5>Awards &amp Honors</h5>
+          <ul>
+            <li>- Dean's List</li>
+          </ul>
+          <h6>Relevant Coursework</h6>
+          <ul>
+            <li>- Software Architecture I</li>
+            <li>- Data Structures</li>
+            <li>- Web Development</li>
+            <li>- Web Design I</li>
+            <li>- User Interface Design I</li>
+          </ul>
+        </div>
+        <div class="experience">
+          <h6 class="section">Professional Experience</h6>
+          <p class="position">Jr Database Developer</p>
+          <p class="place">Webstaurantstore | Lancaster, PA</p>
+          <p class="time">April 2024 - September 2024</p>
+          <ul>
+            <li>
+              - Managed an average of 5 backlog tickets daily, prioritizing and
+              addressing issues efficiently to support ongoing project needs
+            </li>
+            <li>
+              - Developed table structures and stored procedures for a
+              high-priority project, utilizing PostgreSQL, pgAdmin, and
+              Liquibase in a company-first implementation
+            </li>
+            <li>
+              - Co-presented to over 100 team members from various departments,
+              showcasing project progress and key developments
+            </li>
+            <li>
+              - Coordinated with multiple teams using Agile methodologies to
+              deploy scripts to production, ensuring smooth integration and
+              minimal disruption to existing procedures
+            </li>
+          </ul>
+          <h6 class="section">Projects</h6>
+          <p class="position">Full Stack Developer</p>
+          <p class="place">Drexel University | Philadelphia, PA</p>
+          <p class="time">June 2024 - September 2024</p>
+          <ul>
+            <li>
+              - Collaborated with a team of four to develop a web application
+              over five weeks for managing course quizzes, including
+              professor-led course creation and student enrollment using unique
+              invite codes
+            </li>
+            <li>
+              - Created a role-specific UI interface allowing professors to
+              create courses, manage courses and post announcements with
+              restricted features for students
+            </li>
+            <li>
+              - Designed and styled key UI elements, including the navbar and
+              dark/light mode toggle icons ensuring a consistent and visually
+              appealing interface across the platform
+            </li>
+          </ul>
+          <p class="position">Backend Developer</p>
+          <p class="place">Drexel University | Philadelphia, PA</p>
+          <p class="time">January 2023 - June 2023</p>
+          <ul>
+            <li>
+              - Developed a web-based educational math game geared towards
+              children with engaging levels for addition, subtraction,
+              multiplication, and division using Python
+            </li>
+            <li>
+              - Collaborated with a team of three other developers to create
+              backend functionality that generates randomized math problems,
+              validates answers, and tracks scores
+            </li>
+          </ul>
+          <p class="position">Website Designer</p>
+          <p class="place">Drexel University | Philadelphia, PA</p>
+          <p class="time">September 2024 - Present</p>
+          <ul>
+            <li>
+              - Redesigned and updated the Drexel Electric Racing Club's website
+              using WordPress, ensuring current content and a modern design
+            </li>
+            <li>
+              - Enhanced site navigation structure by implementing a
+              user-centered design approach, identifying critical user pain
+              points and streamlined access to essential resources
+            </li>
+            <li>
+              - Captured professional headshots of leadership members and action
+              shots of team members working on the car for use in promotional
+              and website content.
+            </li>
+          </ul>
         </div>
       </div>
+    </main>
+    <footer>
+      <h1>Contact</h1>
+      <a href="https://github.com/sophiabartolacci" target="_blank">
+        <i class="bx bxl-github"></i>
+        <span class="footer-hidden-text"
+          >Sophia Bartolacci's GitHub Profile</span
+        >
+      </a>
+      <a href="https://www.linkedin.com/in/sophiabartolacci/" target="_blank">
+        <i class="bx bxl-linkedin-square"></i>
+        <span class="footer-hidden-text"
+          >Sophia Bartolacci's LinkedIn Profile</span
+        >
+      </a>
+      <a href="mailto:slb522@drexel.edu">
+        <i class="bx bxs-envelope"></i>
+        <span class="footer-hidden-text"
+          >Sophia Bartolacci's Email Address</span
+        >
+      </a>
     </footer>
     <script src="../script/darkMode.js"></script>
   </body>

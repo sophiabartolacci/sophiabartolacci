@@ -10,59 +10,68 @@
       href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
       rel="stylesheet"
     />
+    <link
+      href="../styles/normalize.css"
+      media="screen"
+      rel="stylesheet"
+      type="text/css"
+    />
     <link href="../styles/style.css" rel="stylesheet" type="text/css" />
     <link href="../styles/photos.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
     <header>
-      <a href="/" class="home">Sophia Bartolacci</a>
-      <nav class="nav-bar">
-        <ul class="nav-center">
+      <a href="../index.html" class="home">Sophia Bartolacci</a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" hidden />
+      <label for="nav-toggle" class="nav-toggle-label">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+      <nav>
+        <ul>
+          <li><a href="../index.html">Home</a></li>
           <li><a href="./about.html">About</a></li>
-          <li><a href="./resume.html">Resume</a></li>
-          <li><a href="/">Projects</a></li>
+          <li><a href="../index.html">Projects</a></li>
           <li><a href="./photos.html">Photography</a></li>
-        </ul>
-        <ul class="nav-right">
-          <li>
-            <b>
-              <label class="empty"> this empty box </label>
-            </b>
-          </li>
-          <li>
-            <b>
-              <label class="theme-switch">
-                <input type="checkbox" id="theme-toggle" />
-                <span class="slider"></span>
-              </label>
-            </b>
-          </li>
+          <li><a href="./resume.html">Resume</a></li>
         </ul>
       </nav>
-    </header>
-    <h1>Photography</h1>
-    <p class="photo-descriptions">
-      Here are some of the photos I've taken recently!
-    </p>
-    <div class="photo-container" id="gallery"></div>
-    <footer>
-      <div class="footer">
-        <h2 class="contact">Contact</h2>
-        <div class="links">
-          <a href="https://github.com/sophiabartolacci" target="_blank">
-            <i class="bx bxl-github"></i>
-          </a>
-          <a
-            href="https://www.linkedin.com/in/sophiabartolacci/"
-            target="_blank"
-          >
-            <i class="bx bxl-linkedin-square"></i>
-          </a>
-          <a href="mailto:slb522@drexel.edu">
-            <i class="bx bxs-envelope"></i>
-          </a>
-        </div>
+      <div class="nav-right">
+        <label class="empty"> empty box </label>
+        <label class="theme-switch">
+          <input type="checkbox" id="theme-toggle" />
+          <span class="slider"></span>
+        </label>
       </div>
+    </header>
+    <main>
+      <h1>Photography</h1>
+      <p class="photo-descriptions">
+        Here are some of the photos I've taken recently!
+      </p>
+      <div class="photo-container" id="gallery"></div>
+    </main>
+    <footer>
+      <h1>Contact</h1>
+      <a href="https://github.com/sophiabartolacci" target="_blank">
+        <i class="bx bxl-github"></i>
+        <span class="footer-hidden-text"
+          >Sophia Bartolacci's GitHub Profile</span
+        >
+      </a>
+      <a href="https://www.linkedin.com/in/sophiabartolacci/" target="_blank">
+        <i class="bx bxl-linkedin-square"></i>
+        <span class="footer-hidden-text"
+          >Sophia Bartolacci's LinkedIn Profile</span
+        >
+      </a>
+      <a href="mailto:slb522@drexel.edu">
+        <i class="bx bxs-envelope"></i>
+        <span class="footer-hidden-text"
+          >Sophia Bartolacci's Email Address</span
+        >
+      </a>
     </footer>
     <script src="../script/photos.js"></script>
     <script src="../script/darkMode.js"></script>
