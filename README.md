@@ -11,6 +11,7 @@ Passionate about creating accessible, responsive web applications with clean, ma
 
 ### 🌟 Featured Projects
 - **[Portfolio Website](https://sophiabartolacci.github.io)** - Responsive portfolio with mobile-first design, dark/light mode toggle, and accessibility features
+- **[Blueboard](https://cs375blueboard.fly.dev/)** - Full-stack online learning platform with quiz management, course enrollment, and user authentication built with Node.js and PostgreSQL
 - **[Timesheet Portal](https://sophiabartolacci.github.io/timesheet)** - Vue.js web application for employee time tracking with manager approval dashboard, built during company hackathon utilizing Amazon Q
 
 ### 🌱 Currently
