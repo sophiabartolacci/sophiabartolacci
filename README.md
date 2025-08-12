@@ -22,6 +22,6 @@ Passionate about creating accessible, responsive web applications with clean, ma
 
 ### 🤝 Connect
 - **Portfolio:** [sophiabartolacci.github.io](https://sophiabartolacci.github.io)
-- **LinkedIn:** [sophia-bartolacci](https://linkedin.com/in/sophia-bartolacci)
+- **LinkedIn:** [sophia-bartolacci](https://linkedin.com/in/sophiabartolacci)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sophiabartolacci&show_icons=true&theme=radical&hide_border=true&count_private=true)
