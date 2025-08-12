@@ -10,9 +10,8 @@ Passionate about creating accessible, responsive web applications with clean, ma
 - **Tools:** Git, VSCode, Figma, Amazon Q
 
 ### 🌟 Featured Projects
-- **[Portfolio Website](https://sophiabartolacci.github.io)** - Responsive portfolio with dark/light mode and accessibility features
-- **[IDM222 Project](https://sophiabartolacci.github.io/idm222-slb522)** - Mobile-first CSS and responsive design showcase
-- **[Timesheet Portal](https://sophiabartolacci.github.io/timesheet)** - Vue.js web application for employee time tracking with manager approval dashboard, built during company hackathon utilizing Amazon Q 
+- **[Portfolio Website](https://sophiabartolacci.github.io)** - Responsive portfolio with mobile-first design, dark/light mode toggle, and accessibility features
+- **[Timesheet Portal](https://sophiabartolacci.github.io/timesheet)** - Vue.js web application for employee time tracking with manager approval dashboard, built during company hackathon utilizing Amazon Q
 
 ### 🌱 Currently
 - Building accessibility-focused web projects
@@ -22,6 +21,4 @@ Passionate about creating accessible, responsive web applications with clean, ma
 
 ### 🤝 Connect
 - **Portfolio:** [sophiabartolacci.github.io](https://sophiabartolacci.github.io)
-- **LinkedIn:** [sophia-bartolacci](https://linkedin.com/in/sophiabartolacci)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sophiabartolacci&show_icons=true&theme=radical&hide_border=true&count_private=true)
+- **LinkedIn:** [sophiabartolacci](https://linkedin.com/in/sophia-bartolacci)
