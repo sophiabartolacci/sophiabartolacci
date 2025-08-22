@@ -24,19 +24,6 @@ Passionate about creating accessible, responsive web applications with clean, ma
 - **Portfolio:** [sophiabartolacci.github.io](https://sophiabartolacci.github.io)
 - **LinkedIn:** [sophiabartolacci](https://linkedin.com/in/sophia-bartolacci)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabartolacci&layout=compact&theme=tokyonight&hide_border=true)
-### Language Stats Options
-
-**Option 1 - Compact with Radical Theme:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabartolacci&layout=compact&theme=radical&hide_border=true)
-
-**Option 2 - Compact with Tokyo Night Theme:**
+### Language Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabartolacci&layout=compact&theme=tokyonight&hide_border=true)
 
-**Option 3 - Default Layout:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabartolacci&langs_count=8&theme=default)
-
-**Option 4 - Compact with One Dark Theme:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabartolacci&layout=compact&theme=onedark&hide_border=true)
-
-**Option 5 - More Languages Shown:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabartolacci&langs_count=10&layout=compact&theme=github_dark)
