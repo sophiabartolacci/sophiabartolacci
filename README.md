@@ -1,6 +1,6 @@
 # Hi, I'm Sophia Bartolacci 👋
 
-## Computer Science Student at Drexel University | Web Developer
+## Computer Science Student at Drexel University with Minors in UI/UX and Data Science
 
 Passionate about creating accessible, responsive web applications with clean, maintainable code. I prioritize user experience and web accessibility in every project, combining technical skills with design thinking to build inclusive digital experiences. Currently exploring how the combination of computer science, design, and data can create meaningful solutions.
 
