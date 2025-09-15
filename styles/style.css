@@ -18,8 +18,10 @@
 
 .dark-mode {
   --background-image: url(../images/dark-mode.JPEG);
+  --lighter-text-color: rgba(231, 210, 203, 0.8);
   --nav-background-hover: rgba(231, 210, 203, 0.3);
   --nav-text-hover: #105a4e;
+  --project-text-color: #e7d2cb;
   --slider-bg-light: #555;
   --slider-color: #283735;
   --text-color: #e7d2cb;
@@ -94,7 +96,6 @@ p {
   animation: fadeInUp 0.8s 0.4s forwards;
   color: var(--lighter-text-color);
   font-size: 0.875rem;
-  font-weight: 500;
   opacity: 0;
   text-align: center;
   transform: translateY(-20px);
@@ -425,12 +426,7 @@ input:checked + .slider:before {
 /* Media Queries */
 @media screen and (max-width: 1023px) {
   .nav-right {
-    background: var(--menu-background-color);
-    bottom: 0;
-    padding: 20px;
-    position: absolute;
-    right: 0;
-    width: 100%;
+    display: none;
   }
 
   .subtitle {
@@ -469,6 +465,12 @@ input:checked + .slider:before {
   nav ul li:first-child {
     display: none;
   }
+
+@media screen and (max-width: 1023px) {
+  .theme-switch {
+    display: none;
+  }
+}
 
   h1 {
     font-size: 110px;
