@@ -2,27 +2,27 @@
 
 ## Computer Science Student at Drexel University with Minors in UI/UX and Data Science
 
-Passionate about creating accessible, responsive web applications with clean, maintainable code. I prioritize user experience and web accessibility in every project, combining technical skills with design thinking to build inclusive digital experiences. Currently exploring how the combination of computer science, design, and data can create meaningful solutions.
+Passionate about creating accessible, responsive web applications with clean, maintainable code. I combine technical skills with design thinking to build inclusive, user-centered experiences.
 
 ### 🔧 Technologies
-- **Languages:** HTML, CSS, JavaScript, Python, Java
-- **Frontend:** Responsive Design, CSS Grid/Flexbox, WCAG Accessibility
-- **Tools:** Git, VSCode, Figma, Amazon Q
+**Languages:** HTML, CSS, JavaScript, Python, Java, SQL  
+**Tools:** Git, VSCode, Figma, Amazon Q, AWS, Azure, Cursor
 
 ### 🌟 Featured Projects
-- **[Portfolio Website](https://sophiabartolacci.github.io)** - Responsive portfolio with mobile-first design, dark/light mode toggle, and accessibility features
-- **[Blueboard](https://cs375blueboard.fly.dev/)** - Full-stack online learning platform with quiz management, course enrollment, and user authentication built with Node.js and PostgreSQL
-- **[Timesheet Portal](https://sophiabartolacci.github.io/timesheet)** - Vue.js web application for employee time tracking with manager approval dashboard, built during company hackathon utilizing Amazon Q
+- **[DueDateDemon](https://github.com/sophiabartolacci/due-date-demon)** – Serverless Notion-to-Discord bot that checks upcoming deadlines and sends daily reminders using **AWS Lambda**, **EventBridge**, and **Parameter Store**.  
+- **[Portfolio Website](https://sophiabartolacci.com)** – Responsive portfolio with mobile-first design, dark/light mode toggle, and accessibility features.  
+- **[Blueboard](https://cs375blueboard.fly.dev/)** – Full-stack learning platform with quiz management and course enrollment built with **Node.js** and **PostgreSQL**.  
+- **[Timesheet Portal](https://sophiabartolacci.com/timesheet)** – **Vue.js** app for time tracking and manager approvals, developed during a company hackathon.
 
 ### 🌱 Currently
-- Building accessibility-focused web projects
-- Learning advanced JavaScript frameworks and UI/UX design principles
-- Exploring web performance optimization and data science applications
-- Studying user-centered design and data visualization techniques
+- Building serverless apps that integrate **AI** and **automation**  
+- Exploring **data science** workflows and **data visualization** techniques  
+- Learning **AI search algorithms** and intelligent systems in class  
+- Improving skills in **advanced JavaScript frameworks** and **UI/UX design**  
+- Studying **accessibility-first** web design and performance optimization  
 
 ### 🤝 Connect
-- **Portfolio:** [sophiabartolacci.github.io](https://sophiabartolacci.github.io)
-- **LinkedIn:** [sophiabartolacci](https://linkedin.com/in/sophia-bartolacci)
+**Portfolio:** [sophiabartolacci.github.io](https://sophiabartolacci.com)  
+**LinkedIn:** [sophiabartolacci](https://linkedin.com/in/sophia-bartolacci)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabartolacci&layout=compact&theme=tokyonight&hide_border=true)
-
