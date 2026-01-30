@@ -1,4 +1,4 @@
-name: Update Readme Stats
+name: Update Stats
 
 on:
   schedule:
@@ -8,9 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Stats
-        uses: anuraghazra/github-readme-stats@master
+      - uses: actions/checkout@v3
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: Install dependencies
+        run: npm install github-readme-stats
+      - name: Generate stats image
+        run: node scripts/generate-stats.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
