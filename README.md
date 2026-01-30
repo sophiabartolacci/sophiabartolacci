@@ -5,8 +5,8 @@
 Passionate about creating accessible, responsive web applications with clean, maintainable code. I combine technical skills with design thinking to build inclusive, user-centered experiences.
 
 ### 🔧 Technologies
-**Languages:** HTML, CSS, JavaScript, Python, Java, SQL  
-**Tools:** Git, VSCode, Figma, Amazon Q, AWS, Azure, Cursor
+**Languages:**  Python, Java, SQL, HTML/CSS, JavaScript, React, R  
+**Tools:** AWS, Azure, Cursor, Amazon Q, Figma
 
 ### 🌟 Featured Projects
 - **[DueDateDemon](https://github.com/sophiabartolacci/due-date-demon)** – Serverless Notion-to-Discord bot that checks upcoming deadlines and sends daily reminders using **AWS Lambda**, **EventBridge**, and **Parameter Store**.  
@@ -17,12 +17,11 @@ Passionate about creating accessible, responsive web applications with clean, ma
 ### 🌱 Currently
 - Building serverless apps that integrate **AI** and **automation**  
 - Exploring **data science** workflows and **data visualization** techniques  
-- Learning **AI search algorithms** and intelligent systems in class  
+- Learning **AI/ML algorithms** and intelligent systems in class  
 - Improving skills in **advanced JavaScript frameworks** and **UI/UX design**  
-- Studying **accessibility-first** web design and performance optimization  
 
 ### 🤝 Connect
-**Portfolio:** [sophiabartolacci.github.io](https://sophiabartolacci.com)  
+**Portfolio:** [sophiabartolacci.com](https://sophiabartolacci.com)  
 **LinkedIn:** [sophiabartolacci](https://linkedin.com/in/sophia-bartolacci)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabartolacci&layout=compact&theme=tokyonight&hide_border=true)
