@@ -2,7 +2,7 @@
 
 ## Computer Science Student at Drexel University with Minors in UI/UX and Data Science
 
-Passionate about creating accessible, responsive web applications with clean, maintainable code. I combine technical skills with design thinking to build inclusive, user-centered experiences.
+Passionate about creating accessible, responsive web applications with clean, maintainable code. I enjoy combining technical skills with design thinking to build inclusive, user-centered experiences.
 
 ### 🔧 Technologies
 **Languages:**  Python, Java, SQL, HTML/CSS, JavaScript, React, R  
