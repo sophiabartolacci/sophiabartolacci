@@ -23,3 +23,5 @@ Passionate about creating accessible, responsive web applications with clean, ma
 ### 🤝 Connect
 **Portfolio:** [sophiabartolacci.com](https://sophiabartolacci.com)  
 **LinkedIn:** [sophiabartolacci](https://linkedin.com/in/sophia-bartolacci)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabartolacci&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
