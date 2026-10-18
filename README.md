@@ -1,59 +1,68 @@
-# Hi, I'm Sophia Bartolacci 👋
+# Hi, I'm Sophia! 
 
-## Computer Science Student at Drexel University with Minors in UI/UX and Data Science
+### Computer Science Student at Drexel University | Software Engineering, AI & UI/UX
 
-Passionate about creating accessible, responsive web applications with clean, maintainable code. I enjoy combining technical skills with design thinking to build inclusive, user-centered experiences.
+I'm a Computer Science student at Drexel University with minors in UI/UX and Data Science. I like building things end to end, especially projects where I can move between software development, design, and problem solving instead of staying in just one part of the process.
 
-### 🔧 Technologies
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Scheme](https://img.shields.io/badge/Scheme-1E4D78?style=for-the-badge&logo=racket&logoColor=white)
-![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
+Lately, I've been working with **React, TypeScript, Python, FastAPI, AWS, and AI/RAG workflows**, while continuing to explore the intersection of software engineering and UI/UX.
 
-**Databases:**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+## Technologies
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Tools & Platforms:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
-![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Fabric.js](https://img.shields.io/badge/Fabric.js-8B5CF6?style=flat-square)
 
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-### 🌟 Featured Projects
-- **[DueDateDemon](https://github.com/sophiabartolacci/due-date-demon)** – Serverless Notion-to-Discord bot that checks upcoming deadlines and sends daily reminders using **AWS Lambda**, **EventBridge**, and **Parameter Store**.  
-- **[Portfolio Website](https://sophiabartolacci.com)** – Responsive portfolio with mobile-first design, dark/light mode toggle, and accessibility features.  
-- **[Blueboard](https://cs375blueboard.fly.dev/)** – Full-stack learning platform with quiz management and course enrollment built with **Node.js** and **PostgreSQL**.  
-- **[Timesheet Portal](https://sophiabartolacci.com/timesheet)** – **Vue.js** app for time tracking and manager approvals, developed during a company hackathon.
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🌱 Currently
-- Building serverless apps that integrate **AI** and **automation**  
-- Exploring **data science** workflows and **data visualization** techniques  
-- Learning **AI/ML algorithms** and intelligent systems in class  
-- Improving skills in **advanced JavaScript frameworks** and **UI/UX design**  
+**AI & Development Tools**  
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/Amazon_Q-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
 
-### 🤝 Connect
-**Portfolio:** [sophiabartolacci.com](https://sophiabartolacci.com)  
-**LinkedIn:** [sophiabartolacci](https://linkedin.com/in/sophia-bartolacci)
+**Design**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## Project Highlights
+
+### [DueDateDemon](https://github.com/sophiabartolacci/due-date-demon)
+
+I wanted a way to wake up and immediately know what I needed to get done that day, so I built a Python/AWS service that pulls assignments from Notion and sends deadline reminders through Discord.
+
+### Photobooth Marketplace
+
+A React + TypeScript application built with a 3-person team for creating, customizing, and saving digital photostrips. I worked heavily on the creative tools, including a Fabric.js design studio, customizable templates and stickers, image filters, and facial landmark-based effects.
+
+### [Humble Bundle Redesign](https://sophiabartolacci.com/humble-bundle.html)
+
+A Figma-based UX case study where I used card sorting, user testing, and heuristic evaluation to rethink Humble Bundle's navigation, filtering, and browsing experience.
+
+## What I'm Up To
+
+I'm finishing my senior year at Drexel and continuing to build projects across **software engineering, AI, web development, and UI/UX**. I especially enjoy projects that let me combine technical problem solving with thoughtful, user-centered design.
+
+## Let's Connect!
+
+[Portfolio](https://sophiabartolacci.com) · [LinkedIn](https://www.linkedin.com/in/sophiabartolacci/)
